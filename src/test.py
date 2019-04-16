@@ -25,4 +25,9 @@ check_email("bgmgdf@46784834")
 check_email("email#domain")
 check_email("ksghkjgh@dgf..com")
 
+
+# def .....
+
 driver.quit() # Закрытие тестируемой страницы
+
+
